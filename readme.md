@@ -4,16 +4,13 @@ Digital edition of Learning Algorithms and Practice with Python
 
 <!-- PROJECT SHIELDS -->
 
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 
 <br />
 
 <p align="center">
   <a href="https://github.com/dingjicai/Book_fewshot_learning">
-    <img src="cover.jpg" alt="Logo" width="100" height="120">
+    <img src="cover.jpg" alt="Logo" width="270" height="360">
   </a>
 
 <h3 align="center">小样本机器学习Python算法与实践</h3>
